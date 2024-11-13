@@ -1,3 +1,11 @@
+# 1주차 기출
+
+## 기출 문제 정보
+
+- [2024 KAKAO WINTER INTERNSHIP 가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)
+
+## 기출 문제 분석
+
 ### 문제 분석
 
 - `friends`: 친구들의 이름 목록.
